@@ -1,19 +1,4 @@
 <?php
-/**
- * QRcdr - php QR Code generator
- * config.php
- *
- * Main configuration settings
- *
- * PHP version 5.4+
- *
- * @category  PHP
- * @package   QRcdr
- * @author    Nicola Franchini <info@veno.it>
- * @copyright 2015-2019 Nicola Franchini
- * @license   item sold on codecanyon https://codecanyon.net/item/qrcdr-responsive-qr-code-generator/9226839
- * @link      http://veno.es/qrcdr/
- */
 $_CONFIG = array(
     'lang' => 'en',                             // main language
     'qrcodes_dir' => 'qrcodes',                 // qr codes directory
